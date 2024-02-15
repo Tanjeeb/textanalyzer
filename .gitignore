@@ -1,0 +1,16 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore logs and other generated files
+logs/
+*.log
+npm-debug.log*
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore package-lock.json file (uncomment if using npm)
+ package-lock.json
+
+# Ignore yarn lockfile (uncomment if using yarn)
+# yarn.lock
